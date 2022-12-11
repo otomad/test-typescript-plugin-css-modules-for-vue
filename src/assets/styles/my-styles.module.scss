@@ -1,0 +1,14 @@
+.test {
+	color: blue;
+	margin-bottom: 5rem;
+}
+
+.ball {
+	$size: 100px;
+	width: $size;
+	height: $size;
+	background-color: red;
+	border-radius: 100%;
+	position: absolute;
+	left: 0;
+}
