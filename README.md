@@ -1,6 +1,6 @@
 <details>
 
-# test-typescript-plugin-css-modules-for-vue
+# test-typescript-plugin-css-modules-in-vue
 
 This template should help get you started developing with Vue 3 in Vite.
 
